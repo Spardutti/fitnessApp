@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Fitness App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="repeat_10">%d times</string>
+    <string name="button_next">next</string>
+    <string name="button_exit">exit</string>
+    <string name="title_action_bar">Exercise Number: %d/%d</string>
+    <string name="fitness_image">fitness image</string>
+    <string name="go">Go</string>
+    <string name="you_did_it">You Did it!</string>
+    <string name="next_routine">Next Routine</string>
+    <string name="try_again">Try Again</string>
+    <string name="cross">cross</string>
+</resources>
